@@ -1,0 +1,28 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+.menu a {
+  display: block;
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+input, textarea {
+  display: block;
+  margin: 8px 0;
+  padding: 6px;
+  width: 300px;
+}
+
+button {
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
